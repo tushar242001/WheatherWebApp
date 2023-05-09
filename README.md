@@ -1,5 +1,5 @@
 
-# Weather Web App
+# Weather Web App Application
 
 ![Alt Text](https://media2.giphy.com/media/NKGEuGjD7R8IOC6qKV/giphy.gif?cid=790b7611088f86079aee36da78a3fe9545297e3d5099bb4a&rid=giphy.gif&ct=g)
 
